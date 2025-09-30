@@ -1,4 +1,5 @@
-Flask==2.2.5
-pytesseract==0.3.13
-Pillow==10.0.1
-spacy==3.7.0
+Flask>=2.3.0,<2.4
+pytesseract>=0.3.10,<0.3.14
+Pillow>=10.0,<11
+spacy>=3.6,<3.8
+gunicorn>=20.1.0
