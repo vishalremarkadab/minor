@@ -1,5 +1,6 @@
+
 #!/bin/bash
-# Install Tesseract OCR
+pip install --upgrade pip# Install Tesseract OCR
 apt-get update
 apt-get install -y tesseract-ocr
 
